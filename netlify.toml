@@ -8,6 +8,10 @@
   to = "/.well-known/security.txt"
 
 [[redirects]]
+  from = "/code-of-conduct"
+  to = "https://github.com/gitpod-io/gitpod/blob/main/CODE_OF_CONDUCT.md"
+
+[[redirects]]
   from = "/chat"
   to = "https://discord.gg/ZZ8wxgHtc6"
   status = 301
